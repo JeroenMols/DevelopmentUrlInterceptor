@@ -3,6 +3,8 @@ Intercept development URLs and open them in a specific browser
 
 VPN's are great, but they tend to block MDNS making it difficult to access your development server from your mobile phone running a VPN. This app fixes that by intercepting local development URLs and redirecting them to a different browser instead.
 
+Read more in [this blogpost](https://jeroenmols.com/blog/2023/07/24/vpn-development/).
+
 How to get started:
 
 - In your VPN settings, exclude a particular browser (your non main browser) from the VPN
